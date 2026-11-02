@@ -8,7 +8,7 @@
 * Duration: 45 Days
 * Project: TravelDesk – Travel Agent Management System
 * Status: Successfully Completed
-* Certificate: Achievements - sanjanaprasad-5060 | Microsoft Learn.pdf
+* Certificate:Achievements - sanjanaprasad-5060 | Microsoft Learn.pdf
 
 ### 🏅 Workshops
 
